@@ -8,8 +8,9 @@
 * 第四章 异步编程的那些事
 * [第五章 通信那点事](di-wu-zhang-tong-xin-na-dian-shi.md)
 * [第六章 与设备打交道](di-liu-zhang-yu-she-bei-da-jiao-dao.md)
+  * 6.1 驱动
 * 第七章 使用WPF开发虚拟仪器
-* 第八章 Measurement Data Flow
+* 第八章 Measurement DataFlow
 * 第九章 开源工具和库函数
 * [第十章 厂商支持](di-shi-zhang-chang-shang-zhi-chi.md)
   * 10.1 JY SeeSharp SDK
@@ -17,5 +18,6 @@
 * 第十一章 旧系统的迁移和改造
 * 第十二章 多语言混合编程
 * 第十三章 基于云计算的虚拟仪器网络
-* 第十四章 C\#虚拟仪器开发最佳实践
+* 第十四章 C\#视觉测量
+* 第十五章 C\#虚拟仪器最佳实践
 

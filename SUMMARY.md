@@ -4,9 +4,9 @@
 * [第一章 虚拟仪器概述](di-yi-zhang-xu-ni-yi-qi-gai-shu.md)
 * [第二章 C\#简介](di-er-zhang-c-jian-jie.md)
   * [2.1 微软的套路](di-er-zhang-c-jian-jie/21-wei-ruan-de-tao-lu.md)
-* 第三章 起步，最简单的虚拟仪器设计
+* [第三章 起步，最简单的虚拟仪器设计](di-san-zhang-qi-bu-ff0c-zui-jian-dan-de-xu-ni-yi-qi-she-ji.md)
 * 第四章 异步编程的那些事
-* 第五章 通信那点事
+* [第五章 通信那点事](di-wu-zhang-tong-xin-na-dian-shi.md)
 * [第六章 与设备打交道](di-liu-zhang-yu-she-bei-da-jiao-dao.md)
 * 第七章 使用WPF开发虚拟仪器
 * 第八章 Measurement Data Flow

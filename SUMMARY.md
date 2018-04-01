@@ -2,6 +2,11 @@
 
 * [写在前面的话](README.md)
 * [第一章 虚拟仪器概述](di-yi-zhang-xu-ni-yi-qi-gai-shu.md)
+  * 1.1 虚拟仪器简介
+  * 1.2 一个完整的虚拟仪器系统
+    * 1.2.1 虚拟仪器硬件系统
+    * 1.2.2 虚拟仪器软件系统
+  * 1.3 虚拟仪器应用场景
 * [第二章 C\#简介](di-er-zhang-c-jian-jie.md)
   * [2.1 微软的套路](di-er-zhang-c-jian-jie/21-wei-ruan-de-tao-lu.md)
 * [第三章 起步，最简单的虚拟仪器设计](di-san-zhang-qi-bu-ff0c-zui-jian-dan-de-xu-ni-yi-qi-she-ji.md)

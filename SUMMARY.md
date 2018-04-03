@@ -3,7 +3,7 @@
 * [写在前面的话](README.md)
 * [第一章 虚拟仪器概述](di-yi-zhang-xu-ni-yi-qi-gai-shu.md)
   * [1.1 虚拟仪器简介](di-yi-zhang-xu-ni-yi-qi-gai-shu/11-xu-ni-yi-qi-jian-jie.md)
-  * 1.2 一个完整的虚拟仪器系统
+  * [1.2 一个完整的虚拟仪器系统](di-yi-zhang-xu-ni-yi-qi-gai-shu/12-yi-ge-wan-zheng-de-xu-ni-yi-qi-xi-tong.md)
     * 1.2.1 虚拟仪器硬件系统
     * 1.2.2 虚拟仪器软件系统
   * 1.3 虚拟仪器应用场景
